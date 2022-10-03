@@ -3,4 +3,6 @@
 I work remotely and like to travel a lot ! < br/>
 
 ### Languagea and tools I work with: 
- <img src = "https://cdn-icons-png.flaticon.com/512/919/919827.png" width="50px">
+ <img src = "https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px">
+ <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpnYblSuPdtfl6Tm39mLS5Fz1SX5thHYSkmM1Fp8NTvDEZerthjm_uZVxItxmloaZs6ew&usqp=CAU" width="50px">
+ <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px">
