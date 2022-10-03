@@ -1,1 +1,1 @@
- ### Hi I'm Jasurbek O'telbayev <iframe src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry">via GIPHY</a></p>
+ ### Hi I'm Jasurbek O'telbayev <img src = "https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e4769l266i7wcxhqcnsbjno9c0l295g068odav95hy2&rid=giphy.gif&ct=s" width = "100px">
