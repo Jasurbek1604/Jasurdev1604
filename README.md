@@ -2,7 +2,7 @@
 
 I work remotely and like to travel a lot ! 
 
-### Languagea and tools I work with: 
+### Language and tools I work with: 
 <code> <img src = "https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px"> </code>
 <code> <img src = "https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50px"></code>
 <code> <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px"> </code>
