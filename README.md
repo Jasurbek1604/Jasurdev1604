@@ -5,5 +5,5 @@ I work remotely and like to travel a lot !
 ### Languagea and tools I work with: 
 <code> <img src = "https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px"> </code>
 <code> <img src = "https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50px"></code>
-<code> <img src = "https://o.remove.bg/downloads/c58a7801-d1b4-48e5-b52a-0ec4ee91354d/javascript-icon-logo-javascript-often-abbreviated-as-js-programming-language-conforms-to-ecmascript-specification-204759326-removebg-preview.png" width="50px"> </code>
+<code> <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px"> </code>
 <code> <img src = "https://cdn-icons-png.flaticon.com/512/760/760357.png" width="50px"> </code>
