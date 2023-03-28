@@ -5,5 +5,6 @@ I work remotely and like to travel a lot !
 ### Language and tools I work with: 
 <code> <img src = "https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px"> </code>
 <code> <img src = "https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50px"></code>
+<code> <img src = "https://icons8.com/icon/84710/bootstrap" width="50px"></code>
 <code> <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px"> </code>
 <code> <img src = "https://cdn-icons-png.flaticon.com/512/760/760357.png" width="50px"> </code>
